@@ -1,0 +1,13 @@
+name: hello
+version: 0.1.0
+
+authors:
+  - Sagda <saidfund@sohu.com>
+
+targets:
+  hello:
+    main: src/hello.cr
+
+crystal: 0.27.0
+
+license: MIT
