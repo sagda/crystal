@@ -1,0 +1,13 @@
+name: web
+version: 0.1.0
+
+authors:
+  - Sagda <saidfund@sohu.com>
+
+targets:
+  web:
+    main: src/web.cr
+
+crystal: 0.27.0
+
+license: MIT
